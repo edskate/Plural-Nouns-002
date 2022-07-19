@@ -21,3 +21,6 @@ Give the names of each and tell a story:
 | --- | --- | --- |
 |    :`🔑 key´:     |    :-This is 🎮 console-:     |    :-This is 🎭 Mask-:     |
 |    :`🎁 Present´:     |    :-This is 🎹 Piano-:     |    :-This is 💰Money-:     | 
+|    : `heart´ ❤🧡💚💙💜🤎🖤 | :This is Bacon 🥓: | :This is 🐵 Monkey: |
+
+
