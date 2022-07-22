@@ -29,6 +29,8 @@ Give the names of each and tell a story:
 | :This is a color 🎨: | :This is a dog: 🐶  | :This is a Cat 🐱 : |
 | : This  is a shark 🦈 : | :This is a horse 🐴 : | :This is a  garlic 🧄 : |
 | :Thisis a carrot  🥕 : | :This is  Cofee ☕ : | :Thisis a Milk 🐮:
-
+| :This is a Table : | :This a color: | :This is a notbook📓: |
+| :This is a bird🥪: | :This is a 💔  : | :This is a ma🤙 : |
+| :This is a  💃:  | :This is a ⏰ : | :This is a 🐲  : |
 
 
